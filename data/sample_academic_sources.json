@@ -1,0 +1,36 @@
+
+
+[
+  {
+    "title": "Sample Academic Paper 1",
+    "authors": "John Doe",
+    "publication_year": 2020,
+    "abstract": "This is a sample abstract for testing.",
+    "full_text": "Full sample text for embedding and plagiarism check.",
+    "source_type": "paper"
+  },
+  {
+    "title": "Sample Textbook Chapter",
+    "authors": "Jane Smith",
+    "publication_year": 2018,
+    "abstract": "Sample chapter abstract.",
+    "full_text": "Detailed sample content for RAG.",
+    "source_type": "textbook"
+  },
+  {
+    "title": "The Role of AI in Personalized Learning",
+    "authors": "J. Smith, A. B. Johnson",
+    "publication_year": 2022,
+    "abstract": "This paper explores the transformative potential of artificial intelligence in customizing educational experiences for students.",
+    "full_text": "Artificial intelligence (AI) has emerged as a pivotal technology, poised to revolutionize various sectors, including education. Personalized learning, driven by AI algorithms, allows for adaptive content delivery, tailored feedback, and individualized learning paths. This paradigm shift moves away from a one-size-fits-all approach, catering instead to the unique needs, pace, and preferences of each student. Machine learning models analyze student performance data, identify areas of strength and weakness, and recommend resources or interventions accordingly. The ethical implications of data privacy and algorithmic bias in AI-driven education systems are also critically examined.",
+    "source_type": "paper"
+  },
+  {
+    "title": "Fundamentals of Machine Learning for Beginners",
+    "authors": "C. Davis",
+    "publication_year": 2020,
+    "abstract": "An introductory textbook covering the core concepts and algorithms of machine learning.",
+    "full_text": "Machine learning, a subset of artificial intelligence, empowers systems to learn from data without explicit programming. Key concepts include supervised, unsupervised, and reinforcement learning. Supervised learning involves training models on labeled datasets to make predictions, while unsupervised learning focuses on finding patterns in unlabeled data. Reinforcement learning trains agents to make sequences of decisions. Common algorithms such as linear regression, decision trees, support vector machines, and neural networks form the foundation of modern AI applications. Understanding these fundamentals is crucial for developing sophisticated AI systems in various fields.",
+    "source_type": "textbook"
+  }
+]

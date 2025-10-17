@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-jose[cryptography] # For JWT
+passlib[bcrypt] # For password hashing
+bcrypt==3.2.0
+sqlalchemy[asyncio] # For async SQLAlchemy features
+asyncpg # PostgreSQL async driver
+pydantic
+python-multipart # For file uploads
+google-generativeai
+numpy
+pgvector # For PostgreSQL vector operations
+python-dotenv
+httpx
+aiofiles
+# bcrypt # passlib[bcrypt] usually covers this, but if explicit needed for some reason, add
